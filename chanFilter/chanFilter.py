@@ -49,4 +49,4 @@ def filter(list, board, text, intelligent):
 								click.echo("https://boards.4chan.org/" + board + "/thread/" + str(thread['no']))
 								continue
 if __name__ == '__main__':
-filter()
+	filter()
